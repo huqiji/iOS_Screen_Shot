@@ -10,5 +10,3 @@ iOS宣传图片生产工具，缩短p图时间，延长陪女朋友时间。哦�
 - 根据   iPad iPad 图片 Pro  图片
 - 根据  1024logo生成小logo
 
-## License
-The MIT license.
